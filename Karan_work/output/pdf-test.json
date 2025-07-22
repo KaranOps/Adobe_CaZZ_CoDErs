@@ -1,9 +1,19 @@
 {
-  "title": "Untitled",
+  "title": "PDF Test File",
   "outline": [
     {
       "level": "H1",
-      "text": "Y1A 2C6",
+      "text": "Congratulations, your computer is equipped with a PDF (Portable Document Format)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Yukon Department of Education",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Please visit our website at:",
       "page": 1
     }
   ]
